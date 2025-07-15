@@ -1,6 +1,9 @@
 🌿 Medicinal Plants Knowledge System
+
 An intelligent web application that provides comprehensive information about medicinal plants through natural language queries. The system combines advanced NLP techniques, knowledge graphs, and a user-friendly web interface to deliver accurate, contextual responses about plant properties, uses, safety information, and traditional preparations.
+
 🚀 Features
+
 🧠 Advanced AI-Powered Query Processing
 
 BERT-based Intent Classification: Achieves 85%+ accuracy across 15 distinct query intents with sophisticated entity extraction
